@@ -16,8 +16,6 @@ The configuration of the matrix H variable is [Antennas,Symbols,Subcarriers,User
 
 3. This dataset is opened to the academic community for research. If the data is used in your publication, please cite our paper as follows: <br>
 
-https://ieeexplore.ieee.org/document/8335182  <br>
-
 @inproceedings{chen2019experimental, <br>
   title={Experimental Study of User Selection for Dense Indoor Massive MIMO}, <br>
   author={Chen, Cheng-Ming and Wang, Qing and Guevara Toledo, Andrea and Pollin, Sofie}, <br>
