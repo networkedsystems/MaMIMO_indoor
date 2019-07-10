@@ -1,4 +1,4 @@
-# MaMIMO_IndoorOutdoorExperiment
+# MaMIMO_IndoorExperiment
 This repository includes Matlab scripts to process the uplink channel data collected in an indoor experiment using KULeuven Massive MIMO testbed.
 
 Authors: Cheng-Ming Chen, Andrea P. Guevara. 2019
