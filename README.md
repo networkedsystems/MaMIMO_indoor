@@ -12,9 +12,7 @@ Data Set: https://owncloud.esat.kuleuven.be/index.php/s/oYepckKfoJj93BC  <br>
 
 (Insert link from kuleuven website) <br>
 
-3. Each .m file loads a matrix H variable which contains the channel collected for the specific scenario. This matrix 
-
-The configuration of the matrix H variable is [Antennas,Symbols,Subcarriers,User].
+3. Each .m file loads a matrix H variable which contains the channel collected for the specific scenario. The configuration of the matrix H is [Antennas,Symbols,Subcarriers,User].
 
 3. This dataset is opened to the academic community for research. If the data is used in your publication, please cite our paper as follows: <br>
 
