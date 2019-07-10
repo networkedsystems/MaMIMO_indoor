@@ -8,7 +8,9 @@ Authors: Cheng-Ming Chen, Andrea P. Guevara. 2019
 1. Download the data set to be proccesed. <br>
 Data Set: https://owncloud.esat.kuleuven.be/index.php/s/oYepckKfoJj93BC  <br>
 
-2. Open the required .m file according the specific scenario (collocated or distributed) detailed here: <br>
+2. Open the required .m file according the specific antenna array distribution:  collocated1, collocated2, distributed1 or distributed2. The scenario details are here: <br>
+
+(Insert link from kuleuven website) <br>
 
 3. Each .m file loads a matrix H variable which contains the channel collected for the specific scenario. This matrix 
 
