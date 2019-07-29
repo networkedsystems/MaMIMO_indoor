@@ -24,8 +24,6 @@ Data Set: https://owncloud.esat.kuleuven.be/index.php/s/oYepckKfoJj93BC  <br>
   }
 
 
-Note: The Matlab scripts in this repository will work only for the previous data set.
-
 ## Contact
 If you have any question or problem you can always contact us: <br>
 
